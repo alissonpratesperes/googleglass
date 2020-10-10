@@ -29,8 +29,8 @@ href="https://github.com/alissonpratesperes/googleglass/commits/main">
 
 ## :keyboard: Sobre:
 
-Esse projeto foi desenvolvido através da descoberta do **canal do Curso em Video** no **Youtube**, e foi o **projeto piloto** de teste que utilizei para "**por o pé na água**" na área de desenvolvimento, depois de um crescente interesse por programação. O curso foi disponibilizado pelo **Curso em Video** em 2013, porém eu participei desse "**primeiro evento**" em 2018.
-O site do **Google Glass** foi desenvolvido para a divulgação de sua tecnologia e inovação que será trazida pela **Google** e que está causando uma avalanche de notícias nos principais blogs de tecnologia na época de seu lançamento.
+Esse projeto foi desenvolvido através da **descoberta do canal do Curso em Video no Youtube**, e foi o **projeto piloto** de teste que utilizei para "**por o pé na água" na área de desenvolvimento**, depois de um crescente interesse por programação. O curso foi disponibilizado pelo **Gustavo Guanabara no Curso em Video em 2013**, porém eu participei desse "**primeiro evento" em 2018**.
+O site do **Google Glass** foi desenvolvido para a divulgação de sua tecnologia e inovação que seria trazida pela **Google** e que estava causando uma avalanche de notícias nos principais blogs de tecnologia na época de seu lançamento.
 
 ## :rocket: Tecnologias:
 
@@ -50,21 +50,21 @@ O site do **Google Glass** foi desenvolvido utilizando:
 
 - Extraia utilizando um **descompactador de arquivos**;
 
-- Abra o arquivo **index.html**: arrastando-o para dentro do seu **navegador**, ou utilizando o **botão direito do mouse  e clicando em abrir com...** .
+- Abra o arquivo **index.html**: arrastando-o para dentro do seu **navegador**, ou utilizando o **botão direito do mouse  e clicando em abrir com...**
 
 ## :vertical_traffic_light: Importante:
 
-- Foi desenvolvido seguindo a playlist e a interface proposta sem desvios, portanto poderão ser notados alguns pontos de correção. Poderão ser identificados alguns pontos de melhoria com possibilidade de novas implementações de funcionalidades e/ou design;
+- Foi desenvolvido **seguindo a playlist e a interface proposta sem desvios**, portanto **poderão ser notados alguns pontos de correção**. Poderão ser **identificados alguns pontos de melhoria com possibilidade de novas implementações de funcionalidades e/ou design**;
 
-- Poderá apresentar inconsistências nos elementos da Interface em telas diferentes das utilizadas para o Desenvolvimento da Aplicação, pois de acordo com a **playlist de aulas** não trabalhamos com a **otimização de interface**/**responsividade** para essa aplicação.
+- Poderá apresentar **inconsistências nos elementos da Interface em telas diferentes das utilizadas para o Desenvolvimento da Aplicação**, pois de acordo com a **playlist de aulas** não trabalhamos com a **otimização de interface**/**responsividade** para essa aplicação.
 
 ## :bulb: Aprendizado:
 
-- Linguagem de marcação **HTML 5** com todos os **novos recursos**;
+- Linguagem de marcação **HTML5** com todos os **novos recursos**;
 
-- Linguagem de estilização **CSS 3** com todos os **novos recursos**;
+- Linguagem de estilização **CSS3** com todos os **novos recursos**;
 
-- Linguagem de programação **Javascript** e a utilização de **funções**.
+- Linguagem de programação **Javascript** com a utilização de **funções**.
 
 ## :fuelpump: Autor:
 
