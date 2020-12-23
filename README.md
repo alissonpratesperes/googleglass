@@ -44,7 +44,7 @@ Essa aplicação foi desenvolvida do zero, utilizando as seguintes tecnologias:
 
 O site do Google Glass foi desenvolvido para a divulgação de sua tecnologia e inovação que seria trazida pela Google e que estava causando uma avalanche de notícias nos principais blogs de tecnologia na época de seu lançamento.
 
-- Online no Github Pages, confira pelo link: [Google Glass](https://alissonpratesperes.github.io/googleglass)
+- Online no Github Pages, confira pelo link: [Google Glass](https://alissonpratesperes.github.io/googleglass).
 
 ## :vertical_traffic_light: Importante
 
@@ -54,7 +54,7 @@ O site do Google Glass foi desenvolvido para a divulgação de sua tecnologia e 
 
 - Poderá apresentar inconsistências nos elementos da Interface em telas diferentes das utilizadas para o Desenvolvimento da Aplicação, pois de acordo com a playlist de aulas, a otimização de interface/responsividade não foi abordada para essa aplicação;
 
-- Esse programa pode ser baixado e modificado, contanto que os devidos créditos sejam atribuídos ao seu criador, assim como eu fiz em <a href="#fuelpump-autor">Autor</a>;
+- Esse programa pode ser baixado e modificado, contanto que os devidos créditos sejam atribuídos ao seu criador, assim como eu fiz em <a href="#fuelpump-autor">Autor</a>.
 
 ## :bulb: Aprendizado:
 
@@ -76,7 +76,7 @@ O site do Google Glass foi desenvolvido para a divulgação de sua tecnologia e 
 
 - Extraia utilizando um descompactador de arquivos;
 
-- Abra o arquivo "index.html" arrastando-o para dentro do seu navegador, ou utilizando o botão direito do mouse e clicando em "abrir com...";
+- Abra o arquivo "index.html" arrastando-o para dentro do seu navegador, ou utilizando o botão direito do mouse e clicando em "abrir com...".
 
 ## :memo: Licença
 
