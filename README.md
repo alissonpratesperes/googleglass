@@ -11,13 +11,13 @@ href="https://github.com/alissonpratesperes/googleglass/commits/main">
 </p>
 
 <p align="center">
-<a href="#keyboard-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#ok_hand-curiosidades">Curiosidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#airplane-execute">Execute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#dart-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#battery-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#video_game-curiosidades">Curiosidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#vertical_traffic_light-importante">Importante</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#bulb-aprendizado">Aprendizado</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#fuelpump-autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#airplane-execute">Execute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#memo-licença">Licença</a>
 </p>
 
@@ -27,52 +27,58 @@ href="https://github.com/alissonpratesperes/googleglass/commits/main">
   <img src="github/dashboard.png" width="100%">
 </p>
 
-## :keyboard: Sobre:
+## :dart: Sobre
 
-Esse projeto foi desenvolvido através da **descoberta do canal do Curso em Video no Youtube**, e foi o **projeto piloto** de teste que utilizei para "**por o pé na água" na área de desenvolvimento**, depois de um crescente interesse por programação. O curso foi disponibilizado pelo **Gustavo Guanabara no Curso em Video em 2013**, porém eu participei desse "**primeiro evento" em 2018**.
-O site do **Google Glass** foi desenvolvido para a divulgação de sua tecnologia e inovação que seria trazida pela **Google** e que estava causando uma avalanche de notícias nos principais blogs de tecnologia na época de seu lançamento.
+Projeto desenvolvido através da descoberta do canal do Curso em Video no Youtube, sendo projeto piloto para por o pé na água na área de desenvolvimento, depois de um crescente interesse por Desenvolvimento Web. O curso foi disponibilizado pelo Gustavo Guanabara no Canal do Curso em Video em 2013, porém participei desse "Workshop Online" no primeiro semestre de 2018.
 
-## :rocket: Tecnologias:
 
-O site do **Google Glass** foi desenvolvido utilizando:
+## :battery: Tecnologias
+
+Essa aplicação foi desenvolvida do zero, utilizando as seguintes tecnologias:
 
 - HTML 5
 - CSS 3
 - JAVASCRIPT
 
-## :ok_hand: Curiosidades:
+## :video_game: Curiosidades 
 
-- Online no **Github Pages**, confira pelo link: [Google Glass](https://alissonpratesperes.github.io/googleglass);
+O site do Google Glass foi desenvolvido para a divulgação de sua tecnologia e inovação que seria trazida pela Google e que estava causando uma avalanche de notícias nos principais blogs de tecnologia na época de seu lançamento.
 
-## :airplane: Execute:
+- Online no Github Pages, confira pelo link: [Google Glass](https://alissonpratesperes.github.io/googleglass)
 
-- Baixe uma cópia em "**.zip**" do repositório;
+## :vertical_traffic_light: Importante
 
-- Extraia utilizando um **descompactador de arquivos**;
+- Foi desenvolvido seguindo a playlist e a interface proposta sem desvios, portanto poderão ser notados alguns pontos de correção;
 
-- Abra o arquivo **index.html**: arrastando-o para dentro do seu **navegador**, ou utilizando o **botão direito do mouse  e clicando em abrir com...**
+- Poderão ser identificados alguns pontos de melhoria com possibilidade de novas implementações de funcionalidades e/ou design;
 
-## :vertical_traffic_light: Importante:
+- Poderá apresentar inconsistências nos elementos da Interface em telas diferentes das utilizadas para o Desenvolvimento da Aplicação, pois de acordo com a playlist de aulas, a otimização de interface/responsividade não foi abordada para essa aplicação;
 
-- Foi desenvolvido **seguindo a playlist e a interface proposta sem desvios**, portanto **poderão ser notados alguns pontos de correção**. Poderão ser **identificados alguns pontos de melhoria com possibilidade de novas implementações de funcionalidades e/ou design**;
-
-- Poderá apresentar **inconsistências nos elementos da Interface em telas diferentes das utilizadas para o Desenvolvimento da Aplicação**, pois de acordo com a **playlist de aulas** não trabalhamos com a **otimização de interface**/**responsividade** para essa aplicação.
+- Esse programa pode ser baixado e modificado, contanto que os devidos créditos sejam atribuídos ao seu criador, assim como eu fiz em <a href="#fuelpump-autor">Autor</a>;
 
 ## :bulb: Aprendizado:
 
-- Linguagem de marcação **HTML5** com todos os **novos recursos**;
+- Linguagem de marcação HTML5 com todos os novos recursos da versão;
 
-- Linguagem de estilização **CSS3** com todos os **novos recursos**;
+- Linguagem de estilização CSS3 com todos os novos recursos da versão;
 
-- Linguagem de programação **Javascript** com a utilização de **funções**.
+- Linguagem de programação Javascript com a utilização de Funções.
 
-## :fuelpump: Autor:
+## :fuelpump: Autor
 
-- Dê um **fork** no **repositório oficial** desse projeto, através desse link: [CURSO EM VIDEO](https://github.com/cursoemvideo/cursoemvideo-html5);
+- O repositório oficial do criador do projeto pode ser acessado através do link: [cursoemvideo](https://github.com/cursoemvideo/cursoemvideo-html5);
 
-- Assista à [playlist do projeto](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) no canal do **Youtube** do **CURSO EM VIDEO**.
+- Assista à [playlist do projeto](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) no canal do Youtube do CURSO EM VIDEO para acompanhar todo o processo de desenvolvimento dessa aplicação.
 
-## :memo: Licença:
+## :airplane: Execute
+
+- Baixe uma cópia em ".zip" do repositório;
+
+- Extraia utilizando um descompactador de arquivos;
+
+- Abra o arquivo "index.html" arrastando-o para dentro do seu navegador, ou utilizando o botão direito do mouse e clicando em "abrir com...";
+
+## :memo: Licença
 
 Esse projeto está sob a **Licença MIT**. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
