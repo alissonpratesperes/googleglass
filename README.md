@@ -47,9 +47,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :fuelpump: Autor
 
-- O repositório oficial do criador do projeto pode ser acessado através do link: [cursoemvideo](https://github.com/cursoemvideo/cursoemvideo-html5);
+- Projeto desenvolvido em 2018 através da descoberta do canal **Curso em Vídeo** no <a href="https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o">*Youtube*</a>;
 
-- Assista à [playlist do projeto](https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) no canal do Youtube do CURSO EM VIDEO para acompanhar todo o processo de desenvolvimento dessa aplicação.
+- Acesse  <a href="https://github.com/cursoemvideo/cursoemvideo-html5">aqui</a> o **repositório oficial** do site.
 
 ## :memo: Licença
 
