@@ -4,7 +4,7 @@ ___
 
 <p align="center">  💻&nbsp;&nbsp;Google Glass&nbsp;&nbsp;👓  </p>
 <p align="center">
-<a href="https://www.instagram.com/a_pratesperes"><img alt="Event Name" src="https://img.shields.io/badge/curso%20em%20video-%201.0-%23DDDDDD"/></a>
+<img alt="Event Name" src="https://img.shields.io/badge/instrutor-Gustavo%20Guanabara-%23DDDDDD"/>
 <img alt="GitHub Language Count" 		  src="https://img.shields.io/github/languages/count/alissonpratesperes/aircnc?color=DDDDDD"/>
 <a href="https://github.com/alissonpratesperes/googleglass/search?l=html"><img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/alissonpratesperes/googleglass?color=DDDDDD"/></a>
 <img alt="GitHub Repository Size" src="https://img.shields.io/github/repo-size/alissonpratesperes/googleglass?color=DDDDDD">
@@ -43,7 +43,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :electric_plug: Execute
 
-- Abra o arquivo **index.html** *arrastando-o para dentro do seu navegador*, ou *utilizando o botão direito do mouse e clicando em **abrir com...***.
+- Abra o arquivo **index.html** *arrastando-o para dentro do seu navegador*, ou *utilizando o botão direito do mouse e clicando em* **abrir com...**.
 
 ## :fuelpump: Autor
 
