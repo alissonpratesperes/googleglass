@@ -4,7 +4,7 @@ ___
 
 <p align="center">  💻&nbsp;&nbsp;Google Glass&nbsp;&nbsp;👓  </p>
 <p align="center">
-<img alt="Event Name" src="https://img.shields.io/badge/instrutor-Gustavo%20Guanabara-%23DDDDDD"/>
+<img alt="Event Name" src="https://img.shields.io/badge/instrutor-Gustavo%20G.-%23DDDDDD"/>
 <img alt="GitHub Language Count" 		  src="https://img.shields.io/github/languages/count/alissonpratesperes/aircnc?color=DDDDDD"/>
 <a href="https://github.com/alissonpratesperes/googleglass/search?l=html"><img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/alissonpratesperes/googleglass?color=DDDDDD"/></a>
 <img alt="GitHub Repository Size" src="https://img.shields.io/github/repo-size/alissonpratesperes/googleglass?color=DDDDDD">
