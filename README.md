@@ -1,7 +1,6 @@
-﻿<p align="center"> <img src="github/glass-logo.png" width="30%"> </p>
-
-___
-
+﻿___
+<p align="center"> <img src="github/glass-logo.png" width="30%"> </p>
+<br/>
 <p align="center">
 <img alt="Event Name" src="https://img.shields.io/badge/instrutor-Gustavo%20G.-%23DDDDDD"/>
 <img alt="GitHub Language Count" 		  src="https://img.shields.io/github/languages/count/alissonpratesperes/aircnc?color=DDDDDD"/>
@@ -12,7 +11,7 @@ ___
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/alissonpratesperes/googleglass?color=DDDDDD"></a>
 <a href ="https://github.com/alissonpratesperes/googleglass/blob/main/LICENSE.md"> <img alt="GitHub License" src="https://img.shields.io/badge/license-MIT-DDDDDD"> </a>
 </p>
-
+<br/>
 <p align="center">
 <a href="#dart-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#battery-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
