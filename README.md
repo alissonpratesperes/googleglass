@@ -51,3 +51,7 @@ Acesse <a href="https://github.com/cursoemvideo/cursoemvideo-html5">aqui</a> o *
 ## :memo: Licença
 
 Esse projeto está sob a **Licença MIT**. Veja o arquivo [LICENSE](https://github.com/alissonpratesperes/googleglass/blob/main/LICENSE.md) para mais detalhes.
+
+___
+
+<h5 align="center">👨🏻‍💻&nbsp;com&nbsp;💜&nbsp;por&nbsp;<a href="https://github.com/alissonpratesperes">Alisson Prates Peres</a>&nbsp;✌🏻😗</h5>
