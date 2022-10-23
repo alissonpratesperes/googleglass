@@ -45,7 +45,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## :electric_plug: Execute
 
 	- Clonar o Repositório;
-	- No diretório raíz do Projeto, abra o arquivo "index.html".
+	  >_ No diretório raíz do Projeto, abra o arquivo "index.html".
 
 ## :fuelpump: Autor
 
