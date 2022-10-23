@@ -3,6 +3,7 @@
     <img src="github/glass-logo.png" width="30%"/>
 </p>
     <br/>
+
 <p align="center">
   <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">
 		<img alt="Course Instructor" src="https://img.shields.io/badge/instrutor-Gustavo%20Guanabara-%23DDDDDD"/></a>
@@ -17,6 +18,7 @@
 		<img alt="GitHub License" src="https://img.shields.io/badge/license-MIT-DDDDDD"/></a>
 </p>
 	</br>
+
 <p align="center">
     <a href="#dart-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#battery-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -25,3 +27,5 @@
     <a href="#memo-licença">Licença</a>
 </p>
     <br/>
+  
+<p align="center"> <img src="github/dashboard.png" width="100%"/> </p>
