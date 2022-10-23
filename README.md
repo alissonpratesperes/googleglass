@@ -50,4 +50,4 @@ Acesse <a href="https://github.com/cursoemvideo/cursoemvideo-html5">aqui</a> o *
 
 ## :memo: Licença
 
-Esse projeto está sob a **Licença MIT**. Veja o arquivo [LICENSE](https://github.com/alissonpratesperes/googleglass/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a **Licença MIT**. Veja o arquivo [LICENSE](https://github.com/alissonpratesperes/googleglass/blob/main/LICENSE.md) para mais detalhes.
