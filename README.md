@@ -42,6 +42,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS 3</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JAVASCRIPT</a>
 
+## :electric_plug: Execute
+
+	- Clonar o Repositório;
+	- No diretório raíz do Projeto, abra o arquivo "index.html".
+
 ## :fuelpump: Autor
 
 Projeto desenvolvido através da descoberta do canal <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Curso em Vídeo</a>, em **2018**;
