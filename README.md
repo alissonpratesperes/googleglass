@@ -51,6 +51,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto desenvolvido através da descoberta do canal <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Curso em Vídeo</a>, em **2018**;
 
+Acesse <a href="https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o&ab_channel=CursoemV%C3%ADdeo">aqui</a> para assistir ao **Curso de HTML5 + CSS 3 + JavaScript**;
+
 Acesse <a href="https://github.com/cursoemvideo/cursoemvideo-html5">aqui</a> o **repositório oficial** do site.
 
 ## :memo: Licença
