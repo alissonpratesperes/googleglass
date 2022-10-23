@@ -29,3 +29,15 @@
     <br/>
   
 <p align="center"> <img src="github/dashboard.png" width="100%"/> </p>
+
+## :dart: Sobre
+
+O site do **Google Glass** foi desenvolvido para a divulgação de sua tecnologia e inovação que seria trazida pela Google e que estava causando uma avalanche de notícias nos principais blogs de tecnologia na época de seu lançamento.
+
+## :battery: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML 5</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS 3</a>
+- <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JAVASCRIPT</a>
