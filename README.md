@@ -41,3 +41,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML 5</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS 3</a>
 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JAVASCRIPT</a>
+
+## :fuelpump: Autor
+
+Projeto desenvolvido através da descoberta do canal <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Curso em Vídeo</a>, em **2018**;
+
+Acesse <a href="https://github.com/cursoemvideo/cursoemvideo-html5">aqui</a> o **repositório oficial** do site.
+
+## :memo: Licença
+
+Esse projeto está sob a **Licença MIT**. Veja o arquivo [LICENSE](https://github.com/alissonpratesperes/googleglass/blob/main/LICENSE) para mais detalhes.
