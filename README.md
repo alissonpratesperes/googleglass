@@ -13,6 +13,6 @@
     <img alt="GitHub Code Size" src="https://img.shields.io/github/languages/code-size/alissonpratesperes/googleglass?color=DDDDDD"/>
   <a href="https://github.com/alissonpratesperes/googleglass/commits/main">
 		<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/alissonpratesperes/googleglass?color=DDDDDD"></a>
-  <a href ="https://github.com/alissonpratesperes/googleglass/blob/main/LICENSE">
+  <a href ="https://github.com/alissonpratesperes/googleglass/blob/main/LICENSE.md">
 		<img alt="GitHub License" src="https://img.shields.io/badge/license-MIT-DDDDDD"/></a>
 </p>
