@@ -7,11 +7,11 @@ ___
 <br/>
 
 <p align="center">
-  <a href="#dart-sobre"> 🎯 Sobre </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#battery-tecnologias"> 🔋 Tecnologias </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#electric_plug-execute"> 🔌 Execute </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#fuelpump-autor"> ⛽ Autor </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença"> 📝 Licença </a>
+  <a href="#dart-sobre">🎯Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#battery-tecnologias">🔋Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#electric_plug-execute">🔌Execute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#fuelpump-autor">⛽Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">📝Licença</a>
 </p>
 
 <br/>
@@ -26,9 +26,9 @@ O site do **Google Glass** foi desenvolvido para a divulgação de sua tecnologi
 
 ## :battery: Tecnologias
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> HTML 5 </a> <br/>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"> CSS 3 </a> <br/>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> JavaScript </a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML 5</a><br/>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS 3</a><br/>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>
 
 ## :electric_plug: Execute
 
@@ -38,9 +38,9 @@ O site do **Google Glass** foi desenvolvido para a divulgação de sua tecnologi
 
 ## :fuelpump: Autor
 
-Projeto desenvolvido através do <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o"> Curso de HTML5 Completo e GRÁTIS </a> do <a href="https://www.youtube.com/@CursoemVideo"> Gustavo Guanabara </a>, em **2018**;
+Projeto desenvolvido através do <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o">Curso de HTML5 Completo e GRÁTIS</a> do <a href="https://www.youtube.com/@CursoemVideo">Gustavo Guanabara</a>, em **2018**;
 
-Acesse <a href="https://github.com/cursoemvideo/cursoemvideo-html5"> aqui </a> o **repositório oficial** do Projeto.
+Acesse <a href="https://github.com/cursoemvideo/cursoemvideo-html5">aqui</a> o **repositório oficial** do Projeto.
 
 ## :memo: Licença
 
@@ -50,4 +50,4 @@ ___
 
 <br/>
 
-<p align="center"> 👨🏻‍💻&nbsp;with&nbsp;💜&nbsp;by&nbsp;<a href="https://github.com/alissonpratesperes">Alisson Prates Peres</a>&nbsp;✌🏻🥹 </p>
+<p align="center"> 👨🏻‍💻&nbsp;with&nbsp;💜&nbsp;by&nbsp;<a href="https://github.com/alissonpratesperes">Alisson Prates Peres</a>&nbsp;✌🏻🥹</p>
