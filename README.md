@@ -12,8 +12,6 @@ ___
   <a href="#memo-licença">📝Licença</a>
 </p>
 
-<br/>
-
 <p align="center">
   <img src="./github/glass-dashboard.png" alt="googleglass-dashboard" width="100%"/>
 </p>
