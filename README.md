@@ -20,8 +20,6 @@ ___
   <img src="./github/glass-dashboard.png" alt="googleglass-dashboard" width="100%"/>
 </p>
 
-<br/>
-
 ## :dart: Sobre
 
 O site do **Google Glass** foi desenvolvido para a divulgação de sua tecnologia e inovação que seria trazida pela Google e que estava causando uma avalanche de notícias nos principais blogs de tecnologia na época de seu lançamento.
