@@ -33,8 +33,8 @@ O site do **Google Glass** foi desenvolvido para a divulgação de sua tecnologi
 ## :electric_plug: Execute
 
     - Clonar o Repositório;
-      |- Acessar o diretório: "**googleglass**";
-        >_ Executar o arquivo: "**index.html**".
+      |- Acessar o diretório: "./googleglass";
+        >_ Executar o arquivo: "index.html".
 
 ## :fuelpump: Autor
 
