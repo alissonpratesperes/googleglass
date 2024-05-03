@@ -4,6 +4,8 @@
 
 ___
 
+<br/>
+
 <p align="center">
   <a href="#dart-sobre">🎯Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#battery-tecnologias">🔋Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,6 +19,8 @@ ___
 <p align="center">
   <img src="./github/glass-dashboard.png" alt="googleglass-dashboard" width="100%"/>
 </p>
+
+<br/>
 
 ## :dart: Sobre
 
