@@ -4,8 +4,6 @@
 
 ___
 
-<br/>
-
 <p align="center">
   <a href="#dart-sobre">🎯Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#battery-tecnologias">🔋Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -47,7 +45,5 @@ Acesse <a href="https://github.com/cursoemvideo/cursoemvideo-html5">aqui</a> o *
 Esse projeto está sob a **Licença MIT**. Veja o arquivo [LICENSE](https://github.com/alissonpratesperes/googleglass/blob/main/LICENSE.md) para mais detalhes.
 
 ___
-
-<br/>
 
 <p align="center"> 👨🏻‍💻&nbsp;with&nbsp;💜&nbsp;by&nbsp;<a href="https://github.com/alissonpratesperes">Alisson Prates Peres</a>&nbsp;✌🏻🥹</p>
