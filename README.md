@@ -48,4 +48,4 @@ Esse projeto está sob a **Licença MIT**. Veja o arquivo [LICENSE](https://gith
 
 ___
 
-<p align="center"> 👨🏻‍💻&nbsp;with&nbsp;💜&nbsp;by&nbsp;<a href="https://github.com/alissonpratesperes">Alisson Prates Peres</a>&nbsp;✌🏻🥹</p>
+<p align="center"> 👨🏻‍💻&nbsp;with&nbsp;🤍&nbsp;by&nbsp;<a href="https://github.com/alissonpratesperes">Alisson Prates Peres</a>&nbsp;✌🏻🥹</p>
