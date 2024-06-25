@@ -7,11 +7,11 @@ ___
 <br/>
 
 <p align="center">
-  <a href="#dart-sobre">🎯Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#battery-tecnologias">🔋Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#electric_plug-execute">🔌Execute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#fuelpump-autor">⛽Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">📝Licença</a>
+  🎯<a href="#dart-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  🔋<a href="#battery-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  🔌<a href="#electric_plug-execute">Execute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  ⛽<a href="#fuelpump-autor">Autor</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  📝<a href="#memo-licença">Licença</a>
 </p>
 
 <br/>
@@ -22,9 +22,11 @@ ___
 
 ## :dart: Sobre
 
-O site do **Google Glass** foi desenvolvido para a divulgação de sua tecnologia e inovação que seria trazida pela Google e que estava causando uma avalanche de notícias nos principais blogs de tecnologia na época de seu lançamento.
+O **site do Google Glass** foi desenvolvido para a divulgação de sua tecnologia e inovação que seria trazida pela Google e que estava causando uma avalanche de notícias nos principais blogs de tecnologia na época de seu lançamento.
 
 ## :battery: Tecnologias
+
+  Front-End:
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML 5</a><br/>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS 3</a><br/>
