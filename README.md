@@ -35,7 +35,7 @@ O **site do Google Glass** foi desenvolvido para a divulgação de sua tecnologi
 ## EXECUTE
 
     - Clonar este repositório
-      |- Acessar o diretório: "./googleglass/frontend"
+      |- Acessar o diretório: "./frontend"
         >_ Executar o arquivo: "index.html"
 
 ## AUTOR
