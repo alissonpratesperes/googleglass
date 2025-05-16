@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="./github/glass-logo.png" alt="googleglass-logo" width="30%"/>
+  <img src="./github/googleglass-logo.png" alt="googleglass-logo" width="50%"/>
 </p>
 
 ___
@@ -13,28 +13,31 @@ ___
 <br/>
 
 <p align="center">
-  <img src="./github/glass-dashboard.png" alt="googleglass-dashboard" width="100%"/>
+  <img src="./github/googleglass-dashboard.png" alt="googleglass-dashboard" width="100%"/>
 </p>
 
 ## SOBRE
 
-O **site do Google Glass** foi desenvolvido para a divulgação de sua tecnologia e inovação que seria trazida pela Google e que estava causando uma avalanche de notícias nos principais blogs de tecnologia na época de seu lançamento
+O **site do Google Glass** foi desenvolvido para a divulgação de sua tecnologia e inovação que seria trazida pela Google e que estava causando uma avalanche de notícias nos principais blogs de tecnologia na época de seu lançamento.
 
 ## TECNOLOGIA
 
-FRONT-END | <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HyperText Markup Language 5 </a> • <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">Cascading Style Sheets 3 </a> • <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>
+FRONT-END
+- [HyperText Markup Language 5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [Cascading Style Sheets 3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## EXECUTE
 
-    - Clonar o Repositório
-      |- Acessar o diretório: "./googleglass"
+    - Clonar este repositório
+      |- Acessar o diretório: "./googleglass/frontend"
         >_ Executar o arquivo: "index.html"
 
 ## AUTOR
 
-Projeto desenvolvido através do <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o">Curso de HTML5 Completo e GRÁTIS</a> do <a href="https://www.youtube.com/c/CursoemV%C3%ADdeo">Gustavo Guanabara</a> em **2018**
+Projeto desenvolvido através do [Curso de HTML5 Completo e GRÁTIS](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o) do [Gustavo Guanabara](https://www.youtube.com/c/CursoemVídeo) ocorrido em **Setembro de 2018**
 
-Acesse <a href="https://github.com/cursoemvideo/cursoemvideo-html5">aqui</a> o **repositório oficial** do Projeto
+Acesse [aqui](https://github.com/cursoemvideo/cursoemvideo-html5) o **repositório oficial** da aplicação
 
 ## LICENÇA
 
@@ -42,4 +45,4 @@ Esse projeto está sob a **Licença MIT** veja o arquivo [LICENSE](https://githu
 
 ___
 
-<p align="center">✍🏻&nbsp;with&nbsp;❤️&nbsp;by&nbsp;<a href="https://github.com/alissonpratesperes">me</a>&nbsp👨🏻‍💻</p>
+<p align="center">👨🏻‍💻&nbsp;with&nbsp;❤️</p>
