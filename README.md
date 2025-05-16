@@ -22,10 +22,15 @@ O **site do Google Glass** foi desenvolvido para a divulgação de sua tecnologi
 
 ## TECNOLOGIA
 
-FRONT-END
-- [HyperText Markup Language 5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [Cascading Style Sheets 3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+<details>
+  <summary><strong>Front-End</strong></summary>
+
+  <ul>
+    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HyperText Markup Language 5</a></li>
+    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">Cascading Style Sheets 3</a></li>
+    <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a></li>
+  </ul>
+</details> 
 
 ## EXECUTE
 
